@@ -15,6 +15,6 @@ Linkedin:
 This project is to use Python to automatically update the PowerPoint slides regularly.
 
 ## Project Details
-To check the tutorial article, please click here.
+To check the tutorial article, please click please click [here](https://towardsdatascience.com/use-python-to-automate-the-powerpoint-update-4a385acf1243?sk=13bfc8fa3dbbe98e94784de4e42ca245).
 
-[![alt text](https://cdn-images-1.medium.com/max/800/1*T5hoUO7SBPn1DCbUKAS5bA.png)](https://cdn-images-1.medium.com/max/800/1*T5hoUO7SBPn1DCbUKAS5bA.png)
+[![alt text](https://cdn-images-1.medium.com/max/800/1*T5hoUO7SBPn1DCbUKAS5bA.png)](https://towardsdatascience.com/use-python-to-automate-the-powerpoint-update-4a385acf1243?sk=13bfc8fa3dbbe98e94784de4e42ca245)
