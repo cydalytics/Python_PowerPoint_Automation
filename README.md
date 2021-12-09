@@ -16,3 +16,5 @@ This project is to use Python to automatically update the PowerPoint slides regu
 
 ## Project Details
 To check the tutorial article, please click here.
+
+[![alt text](https://cdn-images-1.medium.com/max/800/1*T5hoUO7SBPn1DCbUKAS5bA.png)](https://cdn-images-1.medium.com/max/800/1*T5hoUO7SBPn1DCbUKAS5bA.png)
